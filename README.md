@@ -1,2 +1,1 @@
-# practica1_fdp
-Primer proyecto.
+Miguel Angel Torres Tapia
